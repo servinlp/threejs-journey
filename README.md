@@ -1,2 +1,3 @@
-# threejs-journey
-Following the threejs-journey course
+# Threejs journey
+
+Following the [threejs-journey](https://threejs-journey.xyz/) course.
